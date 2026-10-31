@@ -64,5 +64,123 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Orkas is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://orkas.ai/
+Orkas provides a metered OpenAI‑compatible API suite covering chat, search, speech, image and video generation, plus a desktop agent client. The platform enables teams to direct AI agents for research, content creation, product development, and operational workflows, offering scalable, usage‑based pricing and comprehensive documentation.
+
+**Areas:** Company · Artificial Intelligence · Chatbots · Media
+
+## Orkas on APIs.io
+
+Everything profiled for Orkas is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/orkas/](https://apis.io/providers/orkas/)** — or go straight to one of the APIs or properties below.
+
+### APIs (6)
+
+- [Orkas Audio API](https://apis.io/apis/orkas/orkas-audio-api/) — The Audio API from Orkas — 2 operation(s) for audio.
+- [Orkas Images API](https://apis.io/apis/orkas/orkas-images-api/) — The Images API from Orkas — 2 operation(s) for images.
+- [Orkas Openapi.json API](https://apis.io/apis/orkas/orkas-openapi-json-api/) — The Openapi.json API from Orkas — 1 operation(s) for openapi.json.
+- [Orkas Search API](https://apis.io/apis/orkas/orkas-search-api/) — The Search API from Orkas — 1 operation(s) for search.
+- [Orkas Videos API](https://apis.io/apis/orkas/orkas-videos-api/) — The Videos API from Orkas — 2 operation(s) for videos.
+- [Orkas Chat Completions API](https://apis.io/apis/orkas/orkas-chat-completions-api/) — The Chat Completions API from Orkas — 1 operation(s) for chat completions.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Orkas Agentic Access](https://apis.io/agentic-access/orkas/orkas-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Orkas Context](https://apis.io/jsonld/orkas/orkas-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Orkas API Rules](https://apis.io/rules/orkas/orkas-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Orkas Authentication](https://apis.io/security/orkas/orkas-authentication/)
+- [Orkas Domain Security](https://apis.io/security/orkas/orkas-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Orkas Plans Pricing](https://apis.io/plans/orkas/orkas-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://orkas.ai/)
+- [Documentation](https://orkas.ai/api-docs/)
+- [API reference](https://orkas.ai/llms.txt)
+- [Pricing](https://orkas.ai/pricing/)
+- [Blog](https://orkas.ai/blog/)
+- [Security](https://orkas.ai/security/)
+- [Terms of service](https://orkas.ai/views/legal/terms.html)
+- [Privacy policy](https://orkas.ai/views/legal/privacy.html)
+- [GitHub](https://github.com/Orkas-AI)
+
+## API Evangelist rating
+
+**Kin Score 43.1** — developing · rubric 0.25.0 · scored 2026-10-23
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 48.6 |
+| Contract governance | 22.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 40.5 |
+| Access clarity | 63.2 |
+
+**Agent readiness 24.6** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 22.7** — AI & Biometrics
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/orkas/](https://apis.io/providers/orkas/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Orkas: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/orkas/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
